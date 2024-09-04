@@ -1,0 +1,17 @@
+{
+  "name": "cs2-metamod-checker",
+  "version": "1.0.0",
+  "description": "Checks whether MetaMod is enabled or not and enables it if necessary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ale_devl",
+  "license": "Unlicense",
+  "dependencies": {
+    "chokidar": "^4.0.0",
+    "config": "^3.3.12",
+    "fs-extra": "^11.2.0"
+  },
+  "type": "module"
+}
