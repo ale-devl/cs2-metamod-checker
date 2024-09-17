@@ -1,6 +1,6 @@
 {
     "files": [
-        "../tmp/test.txt",
-        "../tmp/test2.txt"
+        "/path/to/gameinfo.gi",
+        "/path/to/other/gameinfo.gi"
     ]
 }
